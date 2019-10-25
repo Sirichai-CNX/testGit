@@ -1,0 +1,14 @@
+D:\MY PCB\source\repos\HelloWorldGUI\HelloWorldGUI\bin\Debug\HelloWorldGUI.exe.config
+D:\MY PCB\source\repos\HelloWorldGUI\HelloWorldGUI\bin\Debug\HelloWorldGUI.exe
+D:\MY PCB\source\repos\HelloWorldGUI\HelloWorldGUI\bin\Debug\HelloWorldGUI.pdb
+D:\MY PCB\source\repos\HelloWorldGUI\HelloWorldGUI\obj\Debug\MainWindow.g.cs
+D:\MY PCB\source\repos\HelloWorldGUI\HelloWorldGUI\obj\Debug\App.g.cs
+D:\MY PCB\source\repos\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI_MarkupCompile.cache
+D:\MY PCB\source\repos\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI_MarkupCompile.lref
+D:\MY PCB\source\repos\HelloWorldGUI\HelloWorldGUI\obj\Debug\MainWindow.baml
+D:\MY PCB\source\repos\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.g.resources
+D:\MY PCB\source\repos\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.Properties.Resources.resources
+D:\MY PCB\source\repos\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.csproj.GenerateResource.cache
+D:\MY PCB\source\repos\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.exe
+D:\MY PCB\source\repos\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.pdb
+D:\MY PCB\source\repos\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.csprojAssemblyReference.cache
